@@ -118,3 +118,4 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+!/payara-5-micro-prerelease.jar
